@@ -1,0 +1,96 @@
+2-completed.mat的约简结果是为:
+   7,  30,  10,  15,  18,  31,
+2.mat的约简结果是为:
+  10,  33,  38,  30,
+3-completed.mat的约简结果是为:
+   7,  30,  10,  15,  18,
+3.mat的约简结果是为:
+  30,  10,  35,
+iris.mat的约简结果是为:
+,
+2-completed.mat的约简结果是为:
+   7,  30,  10,  15,  18,  31,
+2.mat的约简结果是为:
+  10,  33,  38,  30,
+3-completed.mat的约简结果是为:
+   7,  30,  10,  15,  18,
+3.mat的约简结果是为:
+  30,  10,  35,
+cleveland.mat的约简结果是为:
+  13,
+ecoli.mat的约简结果是为:
+   6,
+glassscaled.mat的约简结果是为:
+   3,
+heart.mat的约简结果是为:
+  13,
+ionosphere.mat的约简结果是为:
+   1,   5,   8,
+iris.mat的约简结果是为:
+,
+liver.mat的约简结果是为:
+   6,
+olitos.mat的约简结果是为:
+   3,  13,  22,   8,  24,
+sonar.mat的约简结果是为:
+  20,  36,  17,  23,  45,  26,  54,  29,  10,
+winescaled.mat的约简结果是为:
+  12,  13,
+wisconsin_no_mis_vals.mat的约简结果是为:
+   6,
+2-completed.mat的约简结果是为:
+  10,  30,  15,  18,   7,  27,   4,  34,
+2.mat的约简结果是为:
+  10,  15,  16,   3,  33,
+3-completed.mat的约简结果是为:
+  10,  30,  15,  18,  27,  34,   4,
+3.mat的约简结果是为:
+  10,  15,  16,  30,   3,
+cleveland.mat的约简结果是为:
+   7,  11,   3,
+ecoli.mat的约简结果是为:
+   1,
+glassscaled.mat的约简结果是为:
+   9,   5,
+heart.mat的约简结果是为:
+   7,   2,   9,
+ionosphere.mat的约简结果是为:
+,
+iris.mat的约简结果是为:
+,
+liver.mat的约简结果是为:
+   2,
+olitos.mat的约简结果是为:
+  13,  17,   3,  24,   8,  23,  22,
+sonar.mat的约简结果是为:
+  20,  37,  26,  17,  23,  29,  32,  35,  54,  13,  42,  27,  31,  24,
+winescaled.mat的约简结果是为:
+   8,   2,   9,  12,
+wisconsin_no_mis_vals.mat的约简结果是为:
+   1,   6,   4,
+2-completed.mat的约简结果是为:
+   7,  30,  10,  15,  18,  31,
+2-completed.mat的约简结果是为:
+  10,  30,  15,  18,   7,  27,   4,  34,
+2.mat的约简结果是为:
+  10,  15,  16,   3,  33,
+3-completed.mat的约简结果是为:
+  10,  30,  15,  18,  27,  34,   4,
+3.mat的约简结果是为:
+  10,  15,  16,  30,   3,
+cleveland.mat的约简结果是为:
+   7,  11,   3,
+ecoli.mat的约简结果是为:
+   1,
+glassscaled.mat的约简结果是为:
+   9,   5,
+heart.mat的约简结果是为:
+   7,   2,   9,
+ionosphere.mat的约简结果是为:
+,
+iris.mat的约简结果是为:
+,
+liver.mat的约简结果是为:
+   2,
+olitos.mat的约简结果是为:
+  13,  17,   3,  24,   8,  23,  22,

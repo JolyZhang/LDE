@@ -1,0 +1,467 @@
+>> RunFSA('matFile\','LCEFS')
+32-completed.mat
+  Name        Size             Bytes  Class     Attributes
+
+  data      390x39            121680  double              
+
+computing.Elapsed time is 1.221263 seconds.
+Elapsed time is 1.275947 seconds.
+Elapsed time is 1.318626 seconds.
+Elapsed time is 1.319539 seconds.
+Elapsed time is 1.377079 seconds.
+Elapsed time is 1.394157 seconds.
+Elapsed time is 1.430549 seconds.
+Elapsed time is 1.404716 seconds.
+Elapsed time is 1.407652 seconds.
+Elapsed time is 1.397567 seconds.
+Elapsed time is 1.365470 seconds.
+Elapsed time is 1.367584 seconds.
+Elapsed time is 1.320085 seconds.
+Elapsed time is 1.302783 seconds.
+Elapsed time is 1.299160 seconds.
+Elapsed time is 1.256051 seconds.
+Elapsed time is 1.240790 seconds.
+Elapsed time is 1.206641 seconds.
+Elapsed time is 1.174331 seconds.
+Elapsed time is 1.151996 seconds.
+Elapsed time is 1.093085 seconds.
+Elapsed time is 1.041132 seconds.
+Elapsed time is 1.020272 seconds.
+Elapsed time is 0.964552 seconds.
+Elapsed time is 0.932679 seconds.
+Elapsed time is 0.875791 seconds.
+Elapsed time is 0.818613 seconds.
+Elapsed time is 0.775767 seconds.
+Elapsed time is 0.714542 seconds.
+Elapsed time is 0.659354 seconds.
+Elapsed time is 0.627075 seconds.
+Elapsed time is 0.544109 seconds.
+Elapsed time is 0.496783 seconds.
+Elapsed time is 0.426520 seconds.
+Elapsed time is 0.355986 seconds.
+Elapsed time is 0.297475 seconds.
+Elapsed time is 0.220261 seconds.
+Elapsed time is 0.149721 seconds.
+filter procedure's time ==>38.3258s.
+
+reduce by lamda condiction entropy using 38.3264s
+42.mat
+  Name        Size             Bytes  Class     Attributes
+
+  data      390x39            121680  double              
+
+computing.Elapsed time is 1.277116 seconds.
+Elapsed time is 1.354199 seconds.
+Elapsed time is 1.264173 seconds.
+Elapsed time is 1.323983 seconds.
+Elapsed time is 1.320007 seconds.
+Elapsed time is 1.388403 seconds.
+Elapsed time is 1.406673 seconds.
+Elapsed time is 1.386980 seconds.
+Elapsed time is 1.339615 seconds.
+Elapsed time is 1.358366 seconds.
+Elapsed time is 1.353701 seconds.
+Elapsed time is 1.319398 seconds.
+Elapsed time is 1.302214 seconds.
+Elapsed time is 1.276496 seconds.
+Elapsed time is 1.244204 seconds.
+Elapsed time is 1.231267 seconds.
+Elapsed time is 1.210877 seconds.
+Elapsed time is 1.177228 seconds.
+Elapsed time is 1.130292 seconds.
+Elapsed time is 1.103215 seconds.
+Elapsed time is 1.078940 seconds.
+Elapsed time is 1.041648 seconds.
+Elapsed time is 0.999942 seconds.
+Elapsed time is 0.929379 seconds.
+Elapsed time is 0.919268 seconds.
+Elapsed time is 0.852209 seconds.
+Elapsed time is 0.819453 seconds.
+Elapsed time is 0.770768 seconds.
+Elapsed time is 0.715571 seconds.
+Elapsed time is 0.652084 seconds.
+Elapsed time is 0.600291 seconds.
+Elapsed time is 0.529521 seconds.
+Elapsed time is 0.486602 seconds.
+Elapsed time is 0.406943 seconds.
+Elapsed time is 0.351164 seconds.
+Elapsed time is 0.285352 seconds.
+Elapsed time is 0.221499 seconds.
+Elapsed time is 0.147356 seconds.
+filter procedure's time ==>37.6546s.
+
+reduce by lamda condiction entropy using 37.6551s
+53-completed.mat
+  Name        Size             Bytes  Class     Attributes
+
+  data      390x39            121680  double              
+
+computing.Elapsed time is 1.261708 seconds.
+Elapsed time is 1.317694 seconds.
+Elapsed time is 1.325606 seconds.
+Elapsed time is 1.327544 seconds.
+Elapsed time is 1.380313 seconds.
+Elapsed time is 1.393224 seconds.
+Elapsed time is 1.439727 seconds.
+Elapsed time is 1.457342 seconds.
+Elapsed time is 1.408392 seconds.
+Elapsed time is 1.409581 seconds.
+Elapsed time is 1.390314 seconds.
+Elapsed time is 1.501936 seconds.
+Elapsed time is 1.320630 seconds.
+Elapsed time is 1.328300 seconds.
+Elapsed time is 1.298229 seconds.
+Elapsed time is 1.268842 seconds.
+Elapsed time is 1.240156 seconds.
+Elapsed time is 1.192416 seconds.
+Elapsed time is 1.165328 seconds.
+Elapsed time is 1.152549 seconds.
+Elapsed time is 1.143145 seconds.
+Elapsed time is 1.059887 seconds.
+Elapsed time is 1.016455 seconds.
+Elapsed time is 0.970426 seconds.
+Elapsed time is 0.923241 seconds.
+Elapsed time is 0.874280 seconds.
+Elapsed time is 0.842274 seconds.
+Elapsed time is 0.764995 seconds.
+Elapsed time is 0.722145 seconds.
+Elapsed time is 0.681336 seconds.
+Elapsed time is 0.599546 seconds.
+Elapsed time is 0.532709 seconds.
+Elapsed time is 0.486907 seconds.
+Elapsed time is 0.406325 seconds.
+Elapsed time is 0.356233 seconds.
+Elapsed time is 0.280495 seconds.
+Elapsed time is 0.222559 seconds.
+Elapsed time is 0.149860 seconds.
+filter procedure's time ==>38.6893s.
+
+reduce by lamda condiction entropy using 38.6899s
+63.mat
+  Name        Size             Bytes  Class     Attributes
+
+  data      390x39            121680  double              
+
+computing.Elapsed time is 1.219566 seconds.
+Elapsed time is 1.254501 seconds.
+Elapsed time is 1.277476 seconds.
+Elapsed time is 1.294216 seconds.
+Elapsed time is 1.305607 seconds.
+Elapsed time is 1.368911 seconds.
+Elapsed time is 1.387212 seconds.
+Elapsed time is 1.374992 seconds.
+Elapsed time is 1.347793 seconds.
+Elapsed time is 1.337742 seconds.
+Elapsed time is 1.331551 seconds.
+Elapsed time is 1.290838 seconds.
+Elapsed time is 1.289265 seconds.
+Elapsed time is 1.282202 seconds.
+Elapsed time is 1.238069 seconds.
+Elapsed time is 1.232393 seconds.
+Elapsed time is 1.211334 seconds.
+Elapsed time is 1.146062 seconds.
+Elapsed time is 1.138470 seconds.
+Elapsed time is 1.097303 seconds.
+Elapsed time is 1.066172 seconds.
+Elapsed time is 1.036547 seconds.
+Elapsed time is 0.986519 seconds.
+Elapsed time is 0.951843 seconds.
+Elapsed time is 0.908334 seconds.
+Elapsed time is 0.865860 seconds.
+Elapsed time is 0.823024 seconds.
+Elapsed time is 0.744437 seconds.
+Elapsed time is 0.698756 seconds.
+Elapsed time is 0.671201 seconds.
+Elapsed time is 0.599325 seconds.
+Elapsed time is 0.529941 seconds.
+Elapsed time is 0.474006 seconds.
+Elapsed time is 0.419963 seconds.
+Elapsed time is 0.345038 seconds.
+Elapsed time is 0.283370 seconds.
+Elapsed time is 0.214088 seconds.
+Elapsed time is 0.148656 seconds.
+filter procedure's time ==>37.2696s.
+
+reduce by lamda condiction entropy using 37.2701s
+7cleveland.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      297x14            33264  double              
+
+computing.Elapsed time is 0.295033 seconds.
+Elapsed time is 0.314153 seconds.
+Elapsed time is 0.295742 seconds.
+Elapsed time is 0.270496 seconds.
+Elapsed time is 0.257118 seconds.
+Elapsed time is 0.240724 seconds.
+Elapsed time is 0.217201 seconds.
+Elapsed time is 0.202811 seconds.
+Elapsed time is 0.180455 seconds.
+Elapsed time is 0.159515 seconds.
+Elapsed time is 0.125436 seconds.
+Elapsed time is 0.095603 seconds.
+Elapsed time is 0.066402 seconds.
+filter procedure's time ==>2.7482s.
+
+reduce by lamda condiction entropy using 2.7486s
+8ecoli.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      336x8             21504  double              
+
+computing.Elapsed time is 0.192074 seconds.
+Elapsed time is 0.182222 seconds.
+Elapsed time is 0.162284 seconds.
+Elapsed time is 0.141234 seconds.
+Elapsed time is 0.117581 seconds.
+Elapsed time is 0.086234 seconds.
+Elapsed time is 0.064501 seconds.
+filter procedure's time ==>0.97372s.
+
+reduce by lamda condiction entropy using 0.97417s
+9glassscaled.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      214x10            17120  double              
+
+computing.Elapsed time is 0.151967 seconds.
+Elapsed time is 0.139917 seconds.
+Elapsed time is 0.132639 seconds.
+Elapsed time is 0.116354 seconds.
+Elapsed time is 0.104890 seconds.
+Elapsed time is 0.089903 seconds.
+Elapsed time is 0.070292 seconds.
+Elapsed time is 0.054588 seconds.
+Elapsed time is 0.037492 seconds.
+filter procedure's time ==>0.91588s.
+
+reduce by lamda condiction entropy using 0.91628s
+10heart.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      270x14            30240  double              
+
+computing.Elapsed time is 0.279502 seconds.
+Elapsed time is 0.272450 seconds.
+Elapsed time is 0.272539 seconds.
+Elapsed time is 0.250997 seconds.
+Elapsed time is 0.251572 seconds.
+Elapsed time is 0.214373 seconds.
+Elapsed time is 0.197416 seconds.
+Elapsed time is 0.182583 seconds.
+Elapsed time is 0.155253 seconds.
+Elapsed time is 0.136175 seconds.
+Elapsed time is 0.110383 seconds.
+Elapsed time is 0.086103 seconds.
+Elapsed time is 0.059354 seconds.
+filter procedure's time ==>2.4945s.
+
+reduce by lamda condiction entropy using 2.4951s
+11ionosphere.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      230x35            64400  double              
+
+computing.Elapsed time is 0.574476 seconds.
+Elapsed time is 0.560926 seconds.
+Elapsed time is 0.584237 seconds.
+Elapsed time is 0.588596 seconds.
+Elapsed time is 0.581530 seconds.
+Elapsed time is 0.572859 seconds.
+Elapsed time is 0.571947 seconds.
+Elapsed time is 0.557063 seconds.
+Elapsed time is 0.610623 seconds.
+Elapsed time is 0.664224 seconds.
+Elapsed time is 0.538663 seconds.
+Elapsed time is 0.561516 seconds.
+Elapsed time is 0.529624 seconds.
+Elapsed time is 0.520730 seconds.
+Elapsed time is 0.493744 seconds.
+Elapsed time is 0.492709 seconds.
+Elapsed time is 0.475036 seconds.
+Elapsed time is 0.450076 seconds.
+Elapsed time is 0.436520 seconds.
+Elapsed time is 0.401473 seconds.
+Elapsed time is 0.402140 seconds.
+Elapsed time is 0.372144 seconds.
+Elapsed time is 0.352728 seconds.
+Elapsed time is 0.331777 seconds.
+Elapsed time is 0.327554 seconds.
+Elapsed time is 0.286878 seconds.
+Elapsed time is 0.261668 seconds.
+Elapsed time is 0.232773 seconds.
+Elapsed time is 0.210090 seconds.
+Elapsed time is 0.181752 seconds.
+Elapsed time is 0.159278 seconds.
+Elapsed time is 0.123631 seconds.
+Elapsed time is 0.099037 seconds.
+Elapsed time is 0.066815 seconds.
+filter procedure's time ==>14.213s.
+
+reduce by lamda condiction entropy using 14.2134s
+12iris.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      150x5              6000  double              
+
+computing.Elapsed time is 0.043887 seconds.
+Elapsed time is 0.042733 seconds.
+Elapsed time is 0.031754 seconds.
+Elapsed time is 0.024449 seconds.
+filter procedure's time ==>0.15278s.
+
+reduce by lamda condiction entropy using 0.15317s
+13liver.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      345x7             19320  double              
+
+computing.Elapsed time is 0.171547 seconds.
+Elapsed time is 0.162492 seconds.
+Elapsed time is 0.146498 seconds.
+Elapsed time is 0.121396 seconds.
+Elapsed time is 0.097193 seconds.
+Elapsed time is 0.065819 seconds.
+filter procedure's time ==>0.79263s.
+
+reduce by lamda condiction entropy using 0.79303s
+14olitos.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      120x26            24960  double              
+
+computing.Elapsed time is 0.216646 seconds.
+Elapsed time is 0.195954 seconds.
+Elapsed time is 0.197957 seconds.
+Elapsed time is 0.197004 seconds.
+Elapsed time is 0.191193 seconds.
+Elapsed time is 0.183327 seconds.
+Elapsed time is 0.187905 seconds.
+Elapsed time is 0.191584 seconds.
+Elapsed time is 0.164270 seconds.
+Elapsed time is 0.163489 seconds.
+Elapsed time is 0.154546 seconds.
+Elapsed time is 0.148462 seconds.
+Elapsed time is 0.131538 seconds.
+Elapsed time is 0.127217 seconds.
+Elapsed time is 0.119540 seconds.
+Elapsed time is 0.114845 seconds.
+Elapsed time is 0.106431 seconds.
+Elapsed time is 0.099375 seconds.
+Elapsed time is 0.086796 seconds.
+Elapsed time is 0.078789 seconds.
+Elapsed time is 0.067355 seconds.
+Elapsed time is 0.055650 seconds.
+Elapsed time is 0.047547 seconds.
+Elapsed time is 0.038905 seconds.
+Elapsed time is 0.024409 seconds.
+filter procedure's time ==>3.3163s.
+
+reduce by lamda condiction entropy using 3.3167s
+15sonar.mat
+  Name        Size             Bytes  Class     Attributes
+
+  data      208x61            101504  double              
+
+computing.Elapsed time is 0.879488 seconds.
+Elapsed time is 0.890942 seconds.
+Elapsed time is 0.909954 seconds.
+Elapsed time is 0.923256 seconds.
+Elapsed time is 0.937602 seconds.
+Elapsed time is 0.953843 seconds.
+Elapsed time is 0.986231 seconds.
+Elapsed time is 0.945626 seconds.
+Elapsed time is 0.944928 seconds.
+Elapsed time is 0.977194 seconds.
+Elapsed time is 0.998557 seconds.
+Elapsed time is 1.001752 seconds.
+Elapsed time is 0.988514 seconds.
+Elapsed time is 0.969265 seconds.
+Elapsed time is 0.985932 seconds.
+Elapsed time is 0.984411 seconds.
+Elapsed time is 0.975228 seconds.
+Elapsed time is 0.967778 seconds.
+Elapsed time is 0.964113 seconds.
+Elapsed time is 0.954201 seconds.
+Elapsed time is 0.941059 seconds.
+Elapsed time is 0.922112 seconds.
+Elapsed time is 0.937947 seconds.
+Elapsed time is 0.913922 seconds.
+Elapsed time is 0.898772 seconds.
+Elapsed time is 0.885500 seconds.
+Elapsed time is 0.878589 seconds.
+Elapsed time is 0.862249 seconds.
+Elapsed time is 0.840402 seconds.
+Elapsed time is 0.848868 seconds.
+Elapsed time is 0.825265 seconds.
+Elapsed time is 0.797660 seconds.
+Elapsed time is 0.773571 seconds.
+Elapsed time is 0.773827 seconds.
+Elapsed time is 0.747972 seconds.
+Elapsed time is 0.722020 seconds.
+Elapsed time is 0.704692 seconds.
+Elapsed time is 0.675083 seconds.
+Elapsed time is 0.655111 seconds.
+Elapsed time is 0.639033 seconds.
+Elapsed time is 0.615588 seconds.
+Elapsed time is 0.659139 seconds.
+Elapsed time is 0.573530 seconds.
+Elapsed time is 0.554284 seconds.
+Elapsed time is 0.527045 seconds.
+Elapsed time is 0.500630 seconds.
+Elapsed time is 0.468093 seconds.
+Elapsed time is 0.447290 seconds.
+Elapsed time is 0.416873 seconds.
+Elapsed time is 0.375874 seconds.
+Elapsed time is 0.365998 seconds.
+Elapsed time is 0.325152 seconds.
+Elapsed time is 0.309680 seconds.
+Elapsed time is 0.267373 seconds.
+Elapsed time is 0.240943 seconds.
+Elapsed time is 0.203120 seconds.
+Elapsed time is 0.172196 seconds.
+Elapsed time is 0.141246 seconds.
+Elapsed time is 0.105205 seconds.
+Elapsed time is 0.071187 seconds.
+filter procedure's time ==>42.7643s.
+
+reduce by lamda condiction entropy using 42.7648s
+16winescaled.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      178x14            19936  double              
+
+computing.Elapsed time is 0.167351 seconds.
+Elapsed time is 0.170748 seconds.
+Elapsed time is 0.163702 seconds.
+Elapsed time is 0.152298 seconds.
+Elapsed time is 0.132663 seconds.
+Elapsed time is 0.123502 seconds.
+Elapsed time is 0.114358 seconds.
+Elapsed time is 0.103109 seconds.
+Elapsed time is 0.089466 seconds.
+Elapsed time is 0.074220 seconds.
+Elapsed time is 0.061766 seconds.
+Elapsed time is 0.054783 seconds.
+Elapsed time is 0.034361 seconds.
+filter procedure's time ==>1.459s.
+
+reduce by lamda condiction entropy using 1.4596s
+17wisconsin_no_mis_vals.mat
+  Name        Size            Bytes  Class     Attributes
+
+  data      683x10            54640  double              
+
+computing.Elapsed time is 0.628490 seconds.
+Elapsed time is 0.665618 seconds.
+Elapsed time is 0.688926 seconds.
+Elapsed time is 0.619839 seconds.
+Elapsed time is 0.527277 seconds.
+Elapsed time is 0.465237 seconds.
+Elapsed time is 0.382350 seconds.
+Elapsed time is 0.293621 seconds.
+Elapsed time is 0.201897 seconds.
+filter procedure's time ==>4.5606s.
+
+reduce by lamda condiction entropy using 4.5612s
+>> 
